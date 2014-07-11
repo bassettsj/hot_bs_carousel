@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HotBootstrapCarousel! feature.
+ */
+
+include_once 'hot_bs_carousel.features.inc';
